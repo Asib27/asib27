@@ -29,7 +29,7 @@
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asib27&theme=dracula)
 
-<div>
+<div style="display: flex;">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asib27&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asib27&theme=dracula)
 </div>
