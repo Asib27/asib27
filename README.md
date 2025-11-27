@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asib Rahman</h1>
 <h3 align="center">A CSE student from Bangladesh</h3>
 
-
-- 🌱 I’m currently completing my undergraduate at Bangladesh University of Engineering and Technology (BUET).
-
+- Looking for PhD opportunities in Algorithms, Bioinformatics.
+- Currently working as a Senior AI Engineer in SysModeler AI. I have completed my undergraduate degree at Bangladesh University of Engineering and Technology (BUET).
 - 📫 How to reach me **asib.rahman1927@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
